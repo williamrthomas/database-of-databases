@@ -1,6 +1,6 @@
 # Database of Databases
 
-A curated catalog of **193 rare and obscure publicly accessible databases and archives** — plus **313 tools and resources** for exploring, transforming, visualizing, and publishing the data they contain.
+A curated catalog of **220 rare and obscure publicly accessible databases and archives** — plus **313 tools and resources** for exploring, transforming, visualizing, and publishing the data they contain.
 
 This is the raw material for a content operation that turns obscure datasets into compelling visual content: fun facts, interactive explorations, data art, and infographics.
 
@@ -10,7 +10,7 @@ This is the raw material for a content operation that turns obscure datasets int
 
 ### 📁 Databases & Archives (`data/databases.json`)
 
-193 verified entries spanning domains like:
+220 verified entries spanning domains like:
 
 - **Historical & Archival** — CIA CREST declassified files, Old Bailey Online criminal records (1674–1913), London Bills of Mortality
 - **Scientific & Environmental** — NASA Exoplanet Archive, Global Biodiversity Information Facility, Ice Core Gateway
@@ -93,7 +93,7 @@ Both datasets are available as JSON (primary) and CSV (flat export).
 
 Live versions are maintained in Google Sheets for browsing and filtering:
 
-- [Database of Databases](https://docs.google.com/spreadsheets/d/1nXH8I7BrAVxk3J6KMiAWnXBVcIm05HvwVKKNT6IxlNk/edit) — 193 entries, 20 columns
+- [Database of Databases](https://docs.google.com/spreadsheets/d/1nXH8I7BrAVxk3J6KMiAWnXBVcIm05HvwVKKNT6IxlNk/edit) — 220 entries, 20 columns
 - [Tools & Resources Catalog](https://docs.google.com/spreadsheets/d/1g4I8flIR3zVVBcoYnGiLWQPXpM01UxlPBLxaKlfWdRw/edit) — 313 entries, 23 columns
 
 ---
@@ -102,9 +102,9 @@ Live versions are maintained in Google Sheets for browsing and filtering:
 
 | Metric | Value |
 |---|---|
-| Total databases cataloged | 193 |
+| Total databases cataloged | 220 |
 | Total tools cataloged | 313 |
-| Combined entries | 506 |
+| Combined entries | 533 |
 | Open-source tools | 262 (84%) |
 | Actively maintained tools | 282 (90%) |
 | Countries represented (databases) | 30+ |
